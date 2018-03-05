@@ -19,7 +19,7 @@ Table of Contents
     8. [Debugging/Errors](#debugging)
 8. [CocoaPods](#cocoapods)
 9. [Miscellaneous](#miscellaneous)
-10. [LICENSE[(#license)
+10. [LICENSE](#license)
 
 ## Overview <a name="interview"></a>
 -----------
