@@ -108,9 +108,9 @@ App Icons and LaunchScreen
 * Throughout my entire project I used cocoapods
 
 # Miscellaneous
-===============
+
 * Spent about a total of 20+ hours outside of classes. A lot of the time was spent doing research and finding different classes I could find to help lower the amount of code and work my project would take. A large part of this time was used debugging and commenting.
 * I want to credit Kabir Nagral for helping me come up with this idea
 
 
-#LICENSE
+# LICENSE
