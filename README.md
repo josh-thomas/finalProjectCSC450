@@ -1,5 +1,5 @@
 # Computer Science Final Project
-[![Version]]
+
 
 ## Overview
   The purpose of creating this app was to implement a variety of different skills and have more in depth learning of certain aspects of the Xcode IDE. finalProject is an application that houses a 'chat room', 'twitter feed', and a live 'user feed'. Being able to bring together this functionalities into one app was the goal; however, another goal was to learn more about Xcode and its abilities.
