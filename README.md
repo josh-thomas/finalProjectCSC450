@@ -1,7 +1,27 @@
 # Computer Science Final Project
 
+Table of Contents
+=================
+1. [Overview](#interview)
+2. [Features](#features)
+3. [Challenges](#challenges)
+4. [Focus](#focus)
+5. [Achievements](#achievements)
+6. [Deviation](#deviation)
+7. [Work Cited](#workcited)
+  1. [App Icons and Launchscreen](#appicons)
+  2. [FirebaseDatabase to UITableViewController](#firebase)
+  3. [Chat Room](#chatroom)
+  4. [CBPinEntry](#cbpin)
+  5. [NavigationBar](#navigationbar)
+  6. [TwitterFeed](#twitterfeed)
+  7. [PassingData](#passingdata)
+  8. [Debugging/Errors](#debugging)
+8. [CocoaPods](#cocoapods)
+9. [Miscellaneous](#miscellaneous)
+10. [LICENSE[(#license)
 
-## Overview
+## Overview <a name="interview"></a>
 -----------
   The purpose of creating this app was to implement a variety of different skills and have more in depth learning of certain aspects of the Xcode IDE. finalProject is an application that houses a `chat room`, `twitter feed`, and a live `user feed`. Being able to bring together this functionalities into one app was the goal; however, another goal was to learn more about Xcode and its abilities.
 
