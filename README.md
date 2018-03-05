@@ -37,9 +37,9 @@
 
 
 # Work Cited
-============
 
-##App Icons and LaunchScreen
+
+App Icons and LaunchScreen
 ----------------------------
 * https://docs.nativescript.org/publishing/creating-launch-screens-ios
       > I used this to learn about adding images to `LaunchScreen.storyboard` 
@@ -53,32 +53,24 @@
 
 ## FirebaseDatabase to UITableViewController
 --------------------------------------------
-> I used all of these sources for the same reason. Each one does it a different way. I hacked together different parts of each one depending on what I needed it to do. I also would use them to troubleshoot problems that may have come up while I was programming. 
+
 * https://www.youtube.com/watch?v=RMudKhNY0sI
 * https://stackoverflow.com/questions/25935848/ios-myviewcontroller-does-not-conform-to-protocol-uitableviewdatasource
-      >This was an error I was continually getting from my code. Consulted stackoverflow to help solve 
 * https://stackoverflow.com/questions/26442414/libcabi-dylib-terminating-with-uncaught-exception-of-type-nsexception-lldb
 * https://forums.developer.apple.com/message/263629#263629
-      >This was my starting point in where I began my journey in implementing this feature 
 * https://www.youtube.com/watch?v=tv5c1mZttVE
 * https://www.youtube.com/watch?v=ZOxsdVyFNhk
 * https://stackoverflow.com/questions/44499210/ios-display-firebase-data-in-tableview
-      > Help Me find one of my error 
 * https://stackoverflow.com/questions/44499210/ios-display-firebase-data-in-tableview
-      > Thad help walk me through the logic of how the firebase should connect to the UITableViewController and then send the info to the screen. Also some good resources I could look at for example code. Also shared with me his project and how he implemented this feature
-      
 * Thaddeus Hunt
 
 ## Chat Room (ChatViewController)
 ---------------------------------
-      > I used this one the most, was full tutorial on how to make a chat room 
+    
 * https://learnappmaking.com/pass-data-view-controllers-swift-how-to/
-      > Consulted these on how to enable more functionality of the JSQMessagesViewController class 
 * https://github.com/jessesquires/JSQMessagesViewController/issues/1104
 * https://github.com/jessesquires/JSQMessagesViewController/issues/300
-      >Was not able to implement this code 
 * https://github.com/eggswift/ESTabBarController
-      > I consulted the Pusher application primarily for the Twitter Feed 
 * https://github.com/pusher/chatkit-swift
 
 
@@ -91,9 +83,7 @@
 * I found this class through google
 
 ## NavigationBar (Navigation Controller View)
---------------------------------------------
-      > I was going to use this source originally to create a custom navBar, it is not in my finalProject, however, I implemented it in an earlier version of my app, but it did not make it to the finalProject due to a problem I ran into when it came to the sizing of some view controllers and the info on it
-      
+--------------------------------------------   
 * https://stackoverflow.com/questions/42367219/how-to-create-tabbar-with-custom-ui-in-swift-3-0
 
 ## TwitterFeed (TwitterFeedTableViewController)
@@ -103,10 +93,7 @@
 
 ## PassingData (Segues and Delegates)
 -------------------------------------
-      > I have the code for this in my app, however, I did not end up using it in the end. I did not fully understand how it worked until I spoke with you during conference on Monday 
 * https://learnappmaking.com/pass-data-view-controllers-swift-how-to/
-      > I was having trouble implementing this I went to stackoverflow to help seek out advice on how to think of logic behind this bethod of passing data between ViewControllers
-      
 * https://stackoverflow.com/questions/20017026/passing-data-between-view-controllers-using-segue
 
 ## Debugging/Errors
@@ -119,7 +106,6 @@
 #CocoaPods
 ==========
 * Throughout my entire project I used cocoapods
-* 
 
 # Miscellaneous
 ===============
