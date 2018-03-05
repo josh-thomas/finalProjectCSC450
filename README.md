@@ -1,5 +1,5 @@
 # Computer Science Final Project
-================================
+
 
 ## Overview
 -----------
@@ -31,7 +31,7 @@
 ## Deviations
 -------------
 * I was not able to fully implement the customized TabBarController as I had initially planned. Instead I used the `Navigation View Controller` to add `bar item buttons` to each `Storyboard Scene`
-* I wasn`t able to implement a `Storyboard Scene` where it would display upcoming speakers/events depending on the pin you entered
+* I wasn't able to implement a `Storyboard Scene` where it would display upcoming speakers/events depending on the pin you entered
 * My database is not organize how I would have liked it to be. I had to cut a couple of corners to have it fully functional. I was not able do certain actions primarily because I did not code server-side I left that to the application `firebase`
 * I was not able to have the TwitterFeed fully functional
 
@@ -44,7 +44,7 @@
 * https://docs.nativescript.org/publishing/creating-launch-screens-ios
       > I used this to learn about adding images to `LaunchScreen.storyboard` 
 * https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/launch-screen/
-      >* Example use of `LaunchScreen.storyboard` 
+      > Example use of `LaunchScreen.storyboard` 
 * https://github.com/elistone/ios-splashscreen-template-v2/tree/master/example%20-%20Version%202.1.0
       > Images available to use for `Assets` 
 * https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi_y5uW28LZAhXIMd8KHQZkAK8QjRx6BAgAEAY&url=https%3A%2F%2Ffrontendmasters.com%2Fcourses%2Fcomputer-science%2F&psig=AOvVaw02Cbd9wxB6PoEibQcjKNBA&ust=1519704445858217
